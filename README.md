@@ -1,1 +1,1 @@
-# Cvantum_simulator_on_bitwise_operators_
+# qubit_circuit_on_bitwise_operators_
